@@ -202,4 +202,4 @@ Apache License
 
 ## Contributing
 
-We welcome contributions!
+Welcome for any contributions!
