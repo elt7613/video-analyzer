@@ -68,7 +68,7 @@ The system operates in three stages:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/byjlw/video-analyzer.git
+git clone https://github.com/elt7613/video-analyzer.git
 cd video-analyzer
 ```
 
@@ -198,7 +198,7 @@ pip uninstall video-analyzer
 
 ## License
 
-This project is licensed under the Apache License, Version 2.0 - see the [LICENSE](LICENSE) file for details.
+Apache License
 
 ## Contributing
 
